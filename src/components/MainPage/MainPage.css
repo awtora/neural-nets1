@@ -1,0 +1,6 @@
+.mainPage {
+  font-style: italic;
+  font-size: 20rem;
+  display: flex;
+  justify-content: center;
+}
